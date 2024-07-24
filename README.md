@@ -6,6 +6,6 @@ Este repositorio es para pruebas con **Git** y *Github*
 [Página a Google](www.google.com)
 
 <p align="center">
-  <img src="gato.jpg" width="800px" alt="Mem0 Logo">
+  <img src="gato.jpg" width="400px" alt="Gatinho">
 </p>
-[¡MUERAN MALDITOOOOS!](https://github.com/JeronimoQ107/repo_prueba1/blob/main/gato.gif)
+
