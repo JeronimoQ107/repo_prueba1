@@ -5,4 +5,4 @@
 Este repositorio es para pruebas con **Git** y *Github*
 [Página a Google](www.google.com)
 
-[¡MUERAN MALDITOOOOS!](https://giphy.com/gifs/cat-gun-thug-GaqnjVbSLs2uA)
+[¡MUERAN MALDITOOOOS!](https://github.com/JeronimoQ107/repo_prueba1/gato.gif)
